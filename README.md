@@ -1,2 +1,2 @@
 # RecSysCourse
-Udemy Recommender System Course Scripts
+Udemy Recommender System Course Scripts and Exercises
