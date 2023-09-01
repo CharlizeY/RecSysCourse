@@ -1,2 +1,2 @@
 # RecSysCourse
-Course materials from the Udemy course 'Building Recommender Systems with Machine Learning and AI'.
+Course Materials from the Udemy Course 'Building Recommender Systems with Machine Learning and AI'.
